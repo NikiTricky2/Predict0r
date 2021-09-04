@@ -1,1 +1,1 @@
-import * from dataset_parsing
+from dataset_parsing import *
